@@ -173,76 +173,76 @@
                                 <div class="items">
                                     <div>
                                         <a class="current" data-id="1394" data-alias="আজকের-পত্রিকা" data-page="1"
-                                           href="index.html"><img
+                                           href="প্রথম_পাতা"><img
                                                 src="paper_image/thumbnail_image/1.png"
                                                 alt="প্রথম পাতা"/></a>
                                     </div>
                                     <div>
                                         <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="2"
-                                           href="index.html"><img
+                                           href="খবর"><img
                                                 src="paper_image/thumbnail_image/2.png"
                                                 alt="খবর"/></a>
                                     </div>
                                     <div>
                                         <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="3"
-                                           href="index.html"><img
+                                           href="ইমিগ্রেশনের_আদ্যপান্ত"><img
                                                 src="paper_image/thumbnail_image/3.png"
                                                 alt="ইমিগ্রেশনের আদ্যপান্ত"/></a>
                                     </div>
                                     <div>
                                         <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="2"
-                                           href="index.html"><img
+                                           href="নিউ_ইয়র্ক_ট্যাক্সেশন"><img
                                                 src="paper_image/thumbnail_image/4.png"
                                                 alt="নিউ ইয়র্ক ট্যাক্সেশন"/></a>
                                     </div>
                                     <div>
                                         <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="3"
-                                           href="index.html"><img
+                                           href="ইসলামিক_বার্তা"><img
                                                 src="paper_image/thumbnail_image/5.png"
                                                 alt="ইসলামিক বার্তা"/></a>
                                     </div>
                                     <div>
                                         <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="2"
-                                           href="index.html"><img
+                                           href="নিউ_ইয়র্ক_বাংলা_পোস্ট-৬"><img
                                                 src="paper_image/thumbnail_image/6.png"
                                                 alt="নিউ ইয়র্ক বাংলা পোস্ট - ৬"/></a>
                                     </div>
                                     <div>
                                         <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="3"
-                                           href="index.html"><img
+                                           href="নিউ_ইয়র্ক_বাংলা_পোস্ট-৭"><img
                                                 src="paper_image/thumbnail_image/7.png"
                                                 alt="নিউ ইয়র্ক বাংলা পোস্ট - ৭"/></a>
                                     </div>
                                     <div>
                                         <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="4"
-                                           href="index.html"><img
+                                           href="খেলার_পাতা"><img
                                                 src="paper_image/thumbnail_image/8.png"
                                                 alt="খেলার পাতা"/></a>
                                     </div>
                                     <div>
                                         <a class="" data-id="1394" data-alias="আজকের-পত্রিকা" data-page="1"
-                                           href="index.html"><img
+                                           href="সাস্থ্য_সুরক্ষা"><img
                                                 src="paper_image/thumbnail_image/9.png"
                                                 alt="সাস্থ্য সুরক্ষা"/></a>
                                     </div>
                                     <div>
                                         <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="2"
-                                           href="index.html"><img
+                                           href="ব্যাবসায়-বানিজ্য"><img
                                                 src="paper_image/thumbnail_image/10.png"
                                                 alt="ব্যাবসায়-বানিজ্য"/></a>
                                     </div>
                                     <div>
                                         <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="3"
-                                           href="index.html"><img
+                                           href="চাকরির_খবর-১"><img
                                                 src="paper_image/thumbnail_image/11.png"
                                                 alt="চাকরির খবর - ১"/></a>
                                     </div>
@@ -256,28 +256,28 @@
                                     <div>
                                         <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="3"
-                                           href="index.html"><img
+                                           href="ভ্রমন_বিলাস"><img
                                                 src="paper_image/thumbnail_image/13.png"
                                                 alt="ভ্রমন বিলাস"/></a>
                                     </div>
                                     <div>
                                         <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="2"
-                                           href="index.html"><img
+                                           href="আপস্টেট"><img
                                                 src="paper_image/thumbnail_image/14.png"
                                                 alt="আপস্টেট"/></a>
                                     </div>
                                     <div>
                                         <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="3"
-                                           href="index.html"><img
+                                           href="বাফেলো"><img
                                                 src="paper_image/thumbnail_image/15.png"
                                                 alt="বাফেলো"/></a>
                                     </div>
                                     <div>
                                         <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="4"
-                                           href="index.html"><img
+                                           href="শেষের_পাতা"><img
                                                 src="paper_image/thumbnail_image/16.png"
                                                 alt="শেষের পাতা"/></a>
                                     </div>
@@ -320,7 +320,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="current pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="1"
-                                                            href="index.html"><img
+                                                            href="প্রথম_পাতা"><img
                                                                 src="paper_image/box_image/1.png"
                                                                 alt="প্রথম পাতা"/></a>
                                                         <div>প্রথম পাতা</div>
@@ -328,7 +328,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="2"
-                                                            href="index.html"><img
+                                                            href="খবর"><img
                                                                 src="paper_image/box_image/2.png"
                                                                 alt="খবর"/></a>
                                                         <div>খবর</div>
@@ -336,7 +336,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="3"
-                                                            href="index.html"><img
+                                                            href="ইমিগ্রেশনের_আদ্যপান্ত"><img
                                                                 src="paper_image/box_image/3.png"
                                                                 alt="ইমিগ্রেশনের আদ্যপান্ত"/></a>
                                                         <div>ইমিগ্রেশনের আদ্যপান্ত</div>
@@ -344,7 +344,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="3"
-                                                            href="index.html"><img
+                                                            href="নিউ_ইয়র্ক_ট্যাক্সেশন"><img
                                                                 src="paper_image/box_image/4.png"
                                                                 alt="নিউ ইয়র্ক ট্যাক্সেশন"/></a>
                                                         <div>নিউ ইয়র্ক ট্যাক্সেশন</div>
@@ -354,7 +354,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="2"
-                                                            href="index.html"><img
+                                                            href="ইসলামিক_বার্তা"><img
                                                                 src="paper_image/box_image/5.png"
                                                                 alt="ইসলামিক বার্তা"/></a>
                                                         <div>ইসলামিক বার্তা</div>
@@ -362,7 +362,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="2"
-                                                            href="index.html"><img
+                                                            href="নিউ_ইয়র্ক_বাংলা_পোস্ট-৬"><img
                                                                 src="paper_image/box_image/6.png"
                                                                 alt="নিউ ইয়র্ক বাংলা পোস্ট - ৬"/></a>
                                                         <div>নিউ ইয়র্ক বাংলা পোস্ট - ৬</div>
@@ -370,7 +370,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="3"
-                                                            href="index.html"><img
+                                                            href="নিউ_ইয়র্ক_বাংলা_পোস্ট-৭"><img
                                                                 src="paper_image/box_image/7.png"
                                                                 alt="নিউ ইয়র্ক বাংলা পোস্ট - ৭"/></a>
                                                         <div>নিউ ইয়র্ক বাংলা পোস্ট - ৭</div>
@@ -378,7 +378,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="4"
-                                                            href="index.html"><img
+                                                            href="খেলার_পাতা"><img
                                                                 src="paper_image/box_image/8.png"
                                                                 alt="খেলার পাতা"/></a>
                                                         <div>খেলার পাতা</div>
@@ -386,7 +386,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="current pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="1"
-                                                            href="index.html"><img
+                                                            href="সাস্থ্য_সুরক্ষা"><img
                                                                 src="paper_image/box_image/9.png"
                                                                 alt="সাস্থ্য সুরক্ষা"/></a>
                                                         <div>সাস্থ্য সুরক্ষা</div>
@@ -394,7 +394,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="2"
-                                                            href="index.html"><img
+                                                            href="ব্যাবসায়-বানিজ্য"><img
                                                                 src="paper_image/box_image/10.png"
                                                                 alt="ব্যাবসায়-বানিজ্য"/></a>
                                                         <div>ব্যাবসায়-বানিজ্য</div>
@@ -402,7 +402,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="3"
-                                                            href="index.html"><img
+                                                            href="চাকরির_খবর-১"><img
                                                                 src="paper_image/box_image/11.png"
                                                                 alt="চাকরির খবর - ১"/></a>
                                                         <div>চাকরির খবর - ১</div>
@@ -410,7 +410,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="3"
-                                                            href="index.html"><img
+                                                            href="চাকরির_খবর-২"><img
                                                                 src="paper_image/box_image/12.png"
                                                                 alt="চাকরির খবর - ২"/></a>
                                                         <div>চাকরির খবর - ২</div>
@@ -420,7 +420,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="2"
-                                                            href="index.html"><img
+                                                            href="ভ্রমন_বিলাস"><img
                                                                 src="paper_image/box_image/13.png"
                                                                 alt="ভ্রমন বিলাস"/></a>
                                                         <div>ভ্রমন বিলাস</div>
@@ -428,7 +428,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="2"
-                                                            href="index.html"><img
+                                                            href="আপস্টেট"><img
                                                                 src="paper_image/box_image/14.png"
                                                                 alt="আপস্টেট"/></a>
                                                         <div>আপস্টেট</div>
@@ -436,7 +436,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="3"
-                                                            href="index.html"><img
+                                                            href="বাফেলো"><img
                                                                 src="paper_image/box_image/15.png"
                                                                 alt="বাফেলো"/></a>
                                                         <div>বাফেলো</div>
@@ -444,7 +444,7 @@
                                                     <div class='col-xs-3 text-center' style='margin-bottom:20px;'><a
                                                             class="pagethumb thumbnail" data-id="1394"
                                                             data-alias="আজকের-পত্রিকা" data-page="4"
-                                                            href="index.html"><img
+                                                            href="শেষের_পাতা"><img
                                                                 src="paper_image/box_image/16.png"
                                                                 alt="শেষের পাতা"/></a>
                                                         <div>শেষের পাতা</div>
