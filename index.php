@@ -21,25 +21,6 @@
                href="paper_image/page_image/1.png"><img
                         src="paper_image/page_image/1.png"
                         alt=""/></a>
-            <style media="print">
-                body * {
-                    display: none;
-                }
-
-                body #print_img {
-                    display: block !important;
-                }
-            </style>
-            <img class="visible-print" id="print_img"
-                 src="paper_image/page_image/imageprocessor8623.gif"
-                 alt=""/>
-            <script>
-                if ($(window).width() > 768) {
-                    $('.imagethumb').colorbox();
-                }
-                $("body > #print_img").remove();
-                $("body").prepend($("#print_img"));
-            </script>
         </div>
         <div class="col-xs-3">
             <div class="seperator_15"></div>
