@@ -27,16 +27,16 @@
 
             <section class='widget'>
                 <header class='widget_title'><h1>Advertise here</h1></header>
-                <div class='widget_body'><a href="#"><!--<img style="width: 100%; height: auto;"
-                                                                      src="img/pnp_ads_300x600.jpg"
-                                                                      alt="Side Ads"/>--></a>
+                <div class='widget_body'><a href="#"><img style="width: 100%; height: auto;"
+                                                                      src="img/pnp_ads_300x600.png"
+                                                                      alt="Side Ads"/></a>
                     <br><br></div>
             </section>
 
             <section class='widget'>
-                <div class='widget_body'><a href="index.html" target="blank"><!--<img
-                                    style="width: 100%; height: 100%;" src="img/pnp-epaper-logo.jpg"
-                                    alt="epaper"/>--></a>
+                <div class='widget_body'><a href="index.html" target="blank"><img
+                                    style="width: 100%; height: 100%;" src="img/Driving_School.png"
+                                    alt="epaper"/></a>
 
                     <br><br></div>
             </section>
