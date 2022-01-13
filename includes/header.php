@@ -13,14 +13,14 @@
         <div class="row">
             <div class="col-xs-4">
 
-                <a href="index.html">
+                <a href="প্রথম_পাতা">
                     <img src="uploads/black.png" alt="নিউইয়র্ক বাংলা পোস্ট"/>
                 </a>
             </div>
             <div class="col-xs-8">
                 <div class="ad-468">
-                    <center><img src="img/SK_Driving_School_728x90_white.png" alt="ads"
-                                 style="width:100%; height:auto;"></center>
+                    <center><a href="https://skdrivingschoolny.com/" target="_blank"><img src="img/SK_Driving_School_728x90_white.png" alt="ads"
+                                 style="width:100%; height:auto;"></a></center>
                 </div>
             </div>
         </div>
