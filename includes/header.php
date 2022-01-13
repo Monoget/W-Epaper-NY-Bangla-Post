@@ -29,7 +29,7 @@
         <div class="navbar navbar-default navbar-inverse">
             <div class="navbar-inner">
                 <ul class="nav navbar-nav">
-                    <li><a rel="nofollow" href="index.html"><span class='glyphicon glyphicon-home'></span></a></li>
+                    <li><a rel="nofollow" href="প্রথম_পাতা"><span class='glyphicon glyphicon-home'></span></a></li>
                     <li><a target="_blank" href="#">নিউজ সংস্করণ</a></li>
                 </ul>
 
@@ -62,7 +62,7 @@
                                 data-toggle="dropdown">14 Jan 2022 <span class="caret"></span></button>
                         <ul class="dropdown-menu scrollable-menu" role="menu">
                             <li>
-                                <a href="index.html">14
+                                <a href="প্রথম_পাতা">14
                                     Jan 2022</a></li>
                         </ul>
                     </div>
@@ -172,110 +172,110 @@
                                 <!-- root element for the items -->
                                 <div class="items">
                                     <div>
-                                        <a class="current" data-id="1394" data-alias="আজকের-পত্রিকা" data-page="1"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/প্রথম_পাতা") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা" data-page="1"
                                            href="প্রথম_পাতা"><img
                                                 src="paper_image/thumbnail_image/1.png"
                                                 alt="প্রথম পাতা"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/খবর") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="2"
                                            href="খবর"><img
                                                 src="paper_image/thumbnail_image/2.png"
                                                 alt="খবর"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/ইমিগ্রেশনের_আদ্যপান্ত") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="3"
                                            href="ইমিগ্রেশনের_আদ্যপান্ত"><img
                                                 src="paper_image/thumbnail_image/3.png"
                                                 alt="ইমিগ্রেশনের আদ্যপান্ত"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/নিউ_ইয়র্ক_ট্যাক্সেশন") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="2"
                                            href="নিউ_ইয়র্ক_ট্যাক্সেশন"><img
                                                 src="paper_image/thumbnail_image/4.png"
                                                 alt="নিউ ইয়র্ক ট্যাক্সেশন"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/ইসলামিক_বার্তা") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="3"
                                            href="ইসলামিক_বার্তা"><img
                                                 src="paper_image/thumbnail_image/5.png"
                                                 alt="ইসলামিক বার্তা"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/নিউ_ইয়র্ক_বাংলা_পোস্ট-৬") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="2"
                                            href="নিউ_ইয়র্ক_বাংলা_পোস্ট-৬"><img
                                                 src="paper_image/thumbnail_image/6.png"
                                                 alt="নিউ ইয়র্ক বাংলা পোস্ট - ৬"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/নিউ_ইয়র্ক_বাংলা_পোস্ট-৭") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="3"
                                            href="নিউ_ইয়র্ক_বাংলা_পোস্ট-৭"><img
                                                 src="paper_image/thumbnail_image/7.png"
                                                 alt="নিউ ইয়র্ক বাংলা পোস্ট - ৭"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/খেলার_পাতা") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="4"
                                            href="খেলার_পাতা"><img
                                                 src="paper_image/thumbnail_image/8.png"
                                                 alt="খেলার পাতা"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা" data-page="1"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/সাস্থ্য_সুরক্ষা") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা" data-page="1"
                                            href="সাস্থ্য_সুরক্ষা"><img
                                                 src="paper_image/thumbnail_image/9.png"
                                                 alt="সাস্থ্য সুরক্ষা"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/ব্যাবসায়-বানিজ্য") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="2"
                                            href="ব্যাবসায়-বানিজ্য"><img
                                                 src="paper_image/thumbnail_image/10.png"
                                                 alt="ব্যাবসায়-বানিজ্য"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/চাকরির_খবর-১") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="3"
                                            href="চাকরির_খবর-১"><img
                                                 src="paper_image/thumbnail_image/11.png"
                                                 alt="চাকরির খবর - ১"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/চাকরির_খবর-২") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="2"
-                                           href="index.html"><img
+                                           href="চাকরির_খবর-২"><img
                                                 src="paper_image/thumbnail_image/12.png"
                                                 alt="চাকরির খবর - ২"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/ভ্রমন_বিলাস") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="3"
                                            href="ভ্রমন_বিলাস"><img
                                                 src="paper_image/thumbnail_image/13.png"
                                                 alt="ভ্রমন বিলাস"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/আপস্টেট") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="2"
                                            href="আপস্টেট"><img
                                                 src="paper_image/thumbnail_image/14.png"
                                                 alt="আপস্টেট"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/বাফেলো") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="3"
                                            href="বাফেলো"><img
                                                 src="paper_image/thumbnail_image/15.png"
                                                 alt="বাফেলো"/></a>
                                     </div>
                                     <div>
-                                        <a class="" data-id="1394" data-alias="আজকের-পত্রিকা"
+                                        <a class="<?php if($_SERVER['REQUEST_URI']=="/শেষের_পাতা") echo "current"; ?>" data-id="1394" data-alias="আজকের-পত্রিকা"
                                            data-page="4"
                                            href="শেষের_পাতা"><img
                                                 src="paper_image/thumbnail_image/16.png"
