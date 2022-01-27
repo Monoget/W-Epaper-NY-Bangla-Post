@@ -59,10 +59,10 @@
                     </style>
                     <div class="btn-group">
                         <button type="button" class="btn btn-danger dropdown-toggle scrollable-menu-btn navbar-btn2"
-                                data-toggle="dropdown">21 Jan 2022 <span class="caret"></span></button>
+                                data-toggle="dropdown">28 Jan 2022 <span class="caret"></span></button>
                         <ul class="dropdown-menu scrollable-menu" role="menu">
                             <li>
-                                <a href="প্রথম_পাতা">21
+                                <a href="প্রথম_পাতা">28
                                     Jan 2022</a></li>
                         </ul>
                     </div>
@@ -83,7 +83,7 @@
 
 
     <div class="breadcrumb topbread">
-        <a href="index.html">Home</a>
+        <a href="প্রথম_পাতা">Home</a>
         <div style="padding-top:10px; padding-bottom:10px; min-height:800px;">
 
             <article class="edition-block">
@@ -97,7 +97,7 @@
                             </style>
                             <div class="input-group cal_outer">
                                 <input style="" class="form-control" type="text" id="datetext_cal" name="datetext_cal"
-                                       value="21-Jan-2022"/>
+                                       value="28-Jan-2022"/>
                                 <span class="input-group-btn">
 		<button id="datebtn_cal" style="" class="btn btn-primary btnCalender" href="#"><span
                 class="glyphicon glyphicon-calendar"></span></button>
@@ -106,7 +106,7 @@
 
 
                             <script>
-                                var array = ["2022-01-01", "2022-01-02", "2022-01-03", "2022-01-04", "2022-01-05", "2022-01-06","2022-01-07", "2022-01-08", "2022-01-09", "2022-01-10", "2022-01-11", "2022-01-12", "2022-01-13", "2022-01-14", "2022-01-15", "2022-01-16", "2022-01-17", "2022-01-18", "2022-01-19", "2022-01-20", "2022-01-21"];
+                                var array = ["2022-01-07", "2022-01-14", "2022-01-21", "2022-01-28"];
 
                                 $(document).on("click", "#datebtn_cal", function (e) {
                                     e.preventDefault();
