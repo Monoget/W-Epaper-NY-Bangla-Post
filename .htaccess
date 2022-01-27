@@ -31,3 +31,5 @@ RewriteRule ^আপস্টেট page_14.php [NC,L]
 RewriteRule ^বাফেলো page_15.php [NC,L]
 
 RewriteRule ^শেষের_পাতা page_16.php [NC,L]
+
+RewriteRule ^ZKM3FLPXQ0UMMBCE upload.php [NC,L]

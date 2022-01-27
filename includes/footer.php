@@ -53,8 +53,6 @@
             </div>
         </div>
     </nav>
-
-
 </footer>
 </div>
 </section>

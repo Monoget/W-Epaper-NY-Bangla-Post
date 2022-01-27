@@ -5,7 +5,7 @@
           content="নিউাইয়র্ক এর সর্বাধিক পঠিত ই-পেপার।"/>
     <meta name="keywords" content=""/>
     <meta property="og:title" content="আজকের পত্রিকা - নিউইয়র্ক বাংলা পোস্ট ইপেপার - নিউইয়র্ক বাংলা পোস্ট"/>
-<!--    <meta property="og:url" content="https://epaper.purbanchal.com:443/"/>-->
+    <meta property="og:url" content="http://nybanglapost.com/"/>
     <meta property="og:site_name" content="নিউইয়র্ক বাংলা পোস্ট"/>
     <meta property="og:description"
           content="নিউাইয়র্ক এর সর্বাধিক পঠিত ই-পেপার।"/>
@@ -173,3 +173,12 @@ $(document).ajaxStart(function () {
 }
         });
     </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BSRN0KFB6W"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BSRN0KFB6W');
+</script>
